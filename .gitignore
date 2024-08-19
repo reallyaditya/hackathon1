@@ -1,0 +1,10 @@
+*.csv
+*xls
+*.xlsx
+*.venv
+*.pyc
+*.sqlite
+*.sqlite-journal
+.DS_Store
+*.json
+*.zip
